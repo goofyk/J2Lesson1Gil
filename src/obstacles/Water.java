@@ -6,7 +6,7 @@ import animals.*;
  * @author (your name)
  * @version (a version number or a date)
  */
-public class Water {
+public class Water extends Obstacle {
     private int length;
 
     public Water(int length) {

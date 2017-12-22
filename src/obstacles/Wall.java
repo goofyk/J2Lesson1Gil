@@ -6,7 +6,7 @@ import animals.*;
  * @author (your name)
  * @version (a version number or a date)
  */
-public class Wall {
+public class Wall  extends Obstacle{
     private float height;
 
     public Wall(float height) {
