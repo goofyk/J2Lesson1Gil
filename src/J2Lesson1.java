@@ -1,11 +1,9 @@
 import animals.*;
 import obstacles.*;
 /**
- * Write a description of class J2Lesson1 here.
- *
- * @author Sergey Iryupin
- * @version dated Dec 19, 2017
- * @link https://github.com/
+ * @author Anton Gil
+ * @version dated Dec 22, 2017
+ * @link https://github.com/goofyk/J2Lesson1Gil
  */
 public class J2Lesson1 {
     

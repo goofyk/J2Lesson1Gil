@@ -1,8 +1,9 @@
 import obstacles.*;
 import animals.*;
 /**
- * Добавить класс Course (полоса препятствий), в котором будут находиться: массив препятствий,
- * метод который будет просить команду пройти всю полосу
+ * @author Anton Gil
+ * @version dated Dec 22, 2017
+ * @link https://github.com/goofyk/J2Lesson1Gil
  */
 
 public class Course{
